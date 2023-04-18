@@ -5,3 +5,7 @@ __pycache__/
 */.ipynb_checkpoints/*
 .history
 
+tmp*
+./day2
+./day3
+slides/QCBio*
