@@ -7,5 +7,4 @@ __pycache__/
 .gitignore
 
 tmp*
-./day3
 slides/QCBio*
