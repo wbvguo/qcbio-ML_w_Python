@@ -44,5 +44,5 @@ Attendees should have basic programming experience in Python. Familiarity with b
 
 <br/>
 
-<img src="./slides/qcb-logo.png" width="215" height="100">
+<img src="./slides/UCLA_QCBio-logo.png" width="215" height="100">
 
