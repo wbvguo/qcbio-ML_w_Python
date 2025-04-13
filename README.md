@@ -1,4 +1,4 @@
-# UCLA QCBio Collaboratory workshop W17: Machine learning with Python
+# UCLA QCBio Collaboratory workshop W17: Machine Learning with Python
 Author: Wenbin Guo \
 Last Update: 2023 Spring
 
